@@ -84,6 +84,26 @@ h1{
     color: lightblue;
     text-align: center;
 }
+h2{
+    color: lightblue;
+    text-align: center;
+}
+h3{
+    color: lightblue;
+    text-align: center;
+}
+h4{
+    color: lightblue;
+    text-align: center;
+}
+h5{
+    color: lightblue;
+    text-align: center;
+}
+h6{
+    color: lightblue;
+    text-align: center;
+}
 p{
     color: lightblue;
     text-align: center;
@@ -92,18 +112,12 @@ p{
             font-size: 12pt;
             
 }
-h2{
-    color: lightblue;
-    text-align: center;
-}
+
 li{
     color: lightblue;
     text-align: center;
 }
-h3{
-    color: lightblue;
-    text-align: center;
-}
+
 .button {
 	box-shadow: 0px 0px 0px 2px #9fb4f2;
 	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
