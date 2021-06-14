@@ -38,10 +38,10 @@ nav{
 }
 body{
     background-color: rgb(53,54,58);
+  	background-image: url("FONDO.png");
+
 }
-div {
-  background-image: url("FONDO.png");
-}
+
 
 
 .main-nav{
