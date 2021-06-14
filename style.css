@@ -129,6 +129,6 @@ h3{
 	top:1px;
 }
 
-.section:a{
+.a:-webkit-any-link {
 	color :red;
 }	
