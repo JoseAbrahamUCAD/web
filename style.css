@@ -38,7 +38,6 @@ nav{
 }
 body{
     background-color: rgb(53,54,58);
-  	background-image: url("FONDO.png");
 
 }
 
@@ -82,6 +81,7 @@ main{
 html{
     font-size: 75%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-image: url(FONDO.png);	
 }
 h1{
     color: lightblue;
