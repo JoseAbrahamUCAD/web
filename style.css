@@ -86,26 +86,32 @@ html{
 h1{
     color: lightblue;
     text-align: center;
+	font-style:italic
 }
 h2{
     color: lightblue;
     text-align: center;
+	font-style:italic
 }
 h3{
     color: lightblue;
     text-align: center;
+	font-style:italic
 }
 h4{
     color: lightblue;
     text-align: center;
+	font-style:italic
 }
 h5{
     color: lightblue;
     text-align: center;
+	font-style:italic
 }
 h6{
     color: lightblue;
     text-align: center;
+	font-style:italic
 }
 p{
     color: lightblue;
@@ -113,6 +119,7 @@ p{
             font-style:italic; 
             line-height: 30pt;
             font-size: 12pt;
+	
             
 }
 
