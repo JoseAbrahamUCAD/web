@@ -125,7 +125,7 @@ p{
 
 li{
     color: lightblue;
-    text-align: left;
+    text-align: -webkit-match-parent;
 }
 
 .button {
