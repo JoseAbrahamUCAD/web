@@ -125,7 +125,7 @@ p{
 
 li{
     color: lightblue;
-    
+    text-align: left;
 }
 
 .button {
@@ -154,6 +154,3 @@ li{
 }
 
 
-.list{
-	    text-align: left;
-}	
