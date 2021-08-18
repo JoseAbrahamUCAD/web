@@ -113,15 +113,7 @@ h6{
     text-align: center;
 	font-style:italic
 }
-p{
-    color: lightblue;
-    text-align: center;
-            font-style:italic; 
-            line-height: 30pt;
-            font-size: 12pt;
-	
-            
-}
+
 
 li{
     color: lightblue;
@@ -152,5 +144,69 @@ li{
 	position:relative;
 	top:1px;
 }
+.animate__fadeInDown {
+    background: gray;
+    
+}
+.invitacion{
+    background: black;
+    border: 5px solid GRAY;
+    height: 771px;
+    width: 584px;
+    float:left;
+}
+.VIDEOBOD{
+    background: black;
+    
+    height: 356px;
+    width: 500px;
+    float:left;
+}
+.animate__flipInX {
 
+    color: white;
+    font-family: "Latin Modern Roman 10";
+    font-style: oblique;
+}
+.animate__headShake:hover {
 
+    filter: sepia(60%);
+}
+.ROLA {
+    background: black;
+    
+    width: 500px;
+    float: right;
+    
+}
+
+.datos  {
+    background: black;
+    height: 336px;
+    width: 500px; 
+}
+
+.bodatext{
+    color: lightblue;
+    text-align: center;
+    font-style: italic; 
+    line-height: 30pt; 
+    font-size: 15pt;
+
+}
+.mesa{
+    background: black;
+height: 149px;
+    width: 434px;
+        margin: 0;
+        padding: 10;
+    float:left;
+}
+.liver{
+    background: black;
+height: 295px;
+    width: 434px;
+        margin: 0;
+        padding: 10;
+    float:left;
+}
