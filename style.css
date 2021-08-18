@@ -159,7 +159,7 @@ li{
     background: black;
     
     height: 356px;
-    width: 200px;
+    width: 400px;
     float:left;
 }
 .animate__flipInX {
@@ -175,7 +175,7 @@ li{
 .ROLA {
     background: black;
     
-    width: 200px;
+    width: 400px;
     float: right;
     
 }
@@ -183,7 +183,7 @@ li{
 .datos  {
     background: black;
     height: 336px;
-    width: 500px; 
+    width: 400px; 
 }
 
 .bodatext{
