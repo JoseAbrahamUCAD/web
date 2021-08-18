@@ -152,14 +152,14 @@ li{
     background: black;
     border: 5px solid GRAY;
     height: 771px;
-    width: 584px;
+    width: 200px;
     float:left;
 }
 .VIDEOBOD{
     background: black;
     
     height: 356px;
-    width: 500px;
+    width: 200px;
     float:left;
 }
 .animate__flipInX {
@@ -175,7 +175,7 @@ li{
 .ROLA {
     background: black;
     
-    width: 500px;
+    width: 200px;
     float: right;
     
 }
@@ -197,7 +197,7 @@ li{
 .mesa{
     background: black;
 height: 149px;
-    width: 434px;
+    width: 200px;
         margin: 0;
         padding: 10;
     float:left;
@@ -205,7 +205,7 @@ height: 149px;
 .liver{
     background: black;
 height: 295px;
-    width: 434px;
+    width: 200px;
         margin: 0;
         padding: 10;
     float:left;
